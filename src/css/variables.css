@@ -1,0 +1,65 @@
+button.btn-lg, button.btn-md, button.btn-sm {
+  font-weight: 700;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button.btn-lg:hover, button.btn-md:hover, button.btn-sm:hover {
+  box-shadow: none;
+}
+
+button.btn-ghost-dark, button.btn-ghost {
+  background: none;
+  color: white;
+  border: 1px solid white;
+  transition: background 0.2s;
+}
+
+button.btn-sm {
+  height: 50px;
+  width: 110px;
+  font-size: 14px;
+}
+button.btn-md {
+  height: 60px;
+  width: 260px;
+  font-size: 18px;
+}
+button.btn-lg {
+  height: 60px;
+  width: 260px;
+  font-size: 18px;
+}
+button.btn-ghost:hover {
+  background: white;
+  color: black;
+  transition: background 0.2s;
+}
+button.btn-ghost:active {
+  background: #cccccc;
+}
+button.btn-ghost-dark:hover {
+  background: white;
+  color: black;
+  transition: background 0.2s;
+}
+button.btn-ghost-dark:active {
+  background: #cccccc;
+}
+button.red {
+  background-color: red;
+  color: white;
+  transition: background 0.2s ease;
+}
+button.red:hover {
+  background: #cc0000;
+  transition: background 0.2s ease;
+}
+button.red:active {
+  background: #a60000;
+}
+
+/*# sourceMappingURL=variables.css.map */

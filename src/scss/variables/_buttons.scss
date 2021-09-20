@@ -1,0 +1,88 @@
+// Buttons for new site design
+
+%index-button {
+  font-weight: 700;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &:hover {
+    box-shadow: none;
+  }
+}
+
+%ghost-button {
+  background: none;
+  color: white;
+  border: 1px solid white;
+
+  transition: background .2s;
+}
+
+button {
+  &.btn-sm {
+    @extend %index-button;
+    height: 50px;
+    width: 110px;
+    font-size: 14px;
+  }
+
+  &.btn-md {
+    @extend %index-button;
+    height: 60px;
+    width: 260px;
+    font-size: 18px;
+  }
+  
+  &.btn-lg {
+    @extend %index-button;
+    height: 60px;
+    width: 260px;
+    font-size: 18px;
+  }
+
+  &.btn-ghost {
+    @extend %ghost-button;
+
+    &:hover {
+      background: white;
+      color: black;
+      transition: background .2s; 
+    }
+
+    &:active {
+      background: mix(black, white, 20%);
+    }
+  }
+
+  &.btn-ghost-dark {
+    @extend %ghost-button;
+
+    &:hover {
+      background: white;
+      color: black;
+      transition: background .2s; 
+    }
+
+    &:active {
+      background: mix(black, white, 20%);
+    }
+  }
+
+  &.red {
+    background-color: red;
+    color: white;
+    transition: background .2s ease;
+    &:hover {
+      background: mix(black, red, 20%);
+      transition: background .2s ease;
+    }
+    &:active {
+      background: mix(black, red, 35%);
+    }
+  }
+}
