@@ -1,3 +1,5 @@
+@use '../variables' as *;
+
 #frame-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -7,8 +9,7 @@
 .frame {
   height: 150px;
   width: 100%;
-  border: 1px solid black;
-  background: white;
-}
 
-/*# sourceMappingURL=Frame.css.map */
+  border: 1px solid black;
+  background: $white;
+}

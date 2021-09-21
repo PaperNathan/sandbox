@@ -1,5 +1,4 @@
 import Frame from '../../components/Frame/Frame'
-import '../../css/Frame.css'
 
 function FrameContainer(): JSX.Element {
   return (

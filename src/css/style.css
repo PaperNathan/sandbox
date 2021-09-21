@@ -62,4 +62,26 @@ button.red:active {
   background: #a60000;
 }
 
-/*# sourceMappingURL=variables.css.map */
+#frame-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 10px;
+}
+
+.frame {
+  height: 150px;
+  width: 100%;
+  border: 1px solid black;
+  background: white;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Helvetica, Arial, sans-serif;
+  background: #222239;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=style.css.map */

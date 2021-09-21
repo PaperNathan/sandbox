@@ -1,5 +1,5 @@
-@import './variables/typography';
-@import './variables/colors';
+@use './variables/' as *;
+@use './components/frame';
 
 body {
   min-height: 100vh;
