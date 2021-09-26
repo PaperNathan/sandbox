@@ -1,0 +1,103 @@
+{
+  "deck_name": "Absolver",
+  "warlord": "w_serif_al_havoc.jpg",
+  "first_rank": [
+    "r1_llyr_militia.jpg",
+    "r1_llyr_militia.jpg",
+    "r1_llyr_militia.jpg"
+  ],
+  "second_rank": [
+    "r2_baqbou_umbala.jpg",
+    "r2_baqbou_umbala.jpg"
+  ],
+  "deck": [
+    {
+      "image": "i_sir_orban.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "a_lay_hands.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "i_aroch_mail.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "c_squire_argos.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "i_kringles_sleigh.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "a_code_of_chivalry.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "c_arve_yscar.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "c_corten_lye.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "i_commanding_presence.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "i_griffon_of_misear.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "a_to_seek_a_king.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "i_golden_dragon_shield.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "c_sir_james_reed.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "i_absolver.jpg",
+      "count": 2
+    }, 
+    {
+      "image": "c_brother_dominy.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "a_call_verdatha.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "a_leadership.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "c_squire_orban.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "a_close_combat.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "i_squire_lucian.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "i_bruntors_helm.jpg",
+      "count": 2
+    }, 
+    {
+      "image": "c_sir_thomas_of_celinar.jpg",
+      "count": 1
+    }
+  ] 
+}

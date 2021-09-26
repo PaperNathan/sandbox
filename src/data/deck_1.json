@@ -1,0 +1,111 @@
+{
+  "deck_name": "Hail to the King",
+  "warlord": "w_inquisitor_dmitir.jpg",
+  "first_rank": [
+    "r1_genecourt_initiate.jpg",
+    "r1_genecourt_initiate.jpg",
+    "r1_genecourt_initiate.jpg"
+  ],
+  "second_rank": [
+    "r2_acolyte_dorra.jpg",
+    "r2_acolyte_dorra.jpg"
+  ],
+  "deck": [
+    {
+      "image": "i_scepter_of_life.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "c_black_sun_knight.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "c_lord_argen_dllchant.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "a_revigorate.jpg",
+      "count": 2
+    }, 
+    {
+      "image": "c_lord_aurelius_rellion.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "i_helm_of_swiftness.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "c_mother_deiane.jpg",
+      "count": 1
+    }, 
+    {
+      "image": "c_thibaud_rellion.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "i_verdatha_mount.jpg",
+      "count": 3
+    }, 
+    {
+      "image": "i_kringles_sleigh.jpg",
+      "count": 1
+    },     
+    {
+      "image": "i_the_kings_lady.jpg",
+      "count": 1
+    },     
+    {
+      "image": "a_command_horror.jpg", 
+      "count": 3
+    },     
+    {
+      "image": "a_cure_lethal_wounds.jpg",
+      "count": 2
+    },     
+    {
+      "image": "a_holy_might.jpg", 
+      "count": 3
+    },     
+    {
+      "image": "i_breastplate_of_power.jpg",
+      "count": 1
+    },     
+    {
+      "image": "c_sir_edgard_rellion.jpg",
+      "count": 3
+    },     
+    {
+      "image": "i_wyvernsteed.jpg",
+      "count": 3
+    },     
+    {
+      "image": "i_nabus_necklace.jpg", 
+      "count": 1
+    },     
+    {
+      "image": "i_totem_crawler.jpg", 
+      "count": 1
+    }, 
+    {
+      "image": "a_purify.jpg", 
+      "count": 2
+    }, 
+    {
+      "image": "c_cardinal_scelus.jpg", 
+      "count": 1
+    }, 
+    {
+      "image": "c_the_sable_knight.jpg", 
+      "count": 1
+    }, 
+    {
+      "image": "c_magheline.jpg", 
+      "count": 2
+    }, 
+    {
+      "image": "c_king_dukault.jpg",
+      "count": 3
+    }
+  ] 
+}
