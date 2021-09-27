@@ -10,7 +10,6 @@ import Warlord from './game/Warlord'
 function App() {
   return (
     <>
-      <Nav />
       <Switch>
         <Route path="/" component={ Home } exact />
         <Route path="/projects" component={ Projects } exact />

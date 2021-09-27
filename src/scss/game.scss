@@ -42,7 +42,26 @@ body {
   grid-area: "player-dice"
 }
 
+// ################### RANK #####################
+.rank {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .card {
+    height: 150px;
+
+    img {
+      height: 100%;
+      width: auto;
+    }
+  }
+}
+
+
 // ################### DICE #####################
+
 #dice-play-area {
   height: 100%;
 
@@ -62,4 +81,14 @@ body {
       cursor: pointer;
     }
   }
+}
+
+// ################### PLAY AREA #####################
+.play-area {
+  display: flex;
+  flex-direction: column;
+}
+
+.opponent-area .play-area {
+  flex-direction: column-reverse;
 }

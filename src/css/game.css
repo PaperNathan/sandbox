@@ -36,6 +36,20 @@ body {
   grid-area: "player-dice";
 }
 
+.rank {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rank .card {
+  height: 150px;
+}
+.rank .card img {
+  height: 100%;
+  width: auto;
+}
+
 #dice-play-area {
   height: 100%;
   display: flex;
@@ -52,6 +66,15 @@ body {
 #dice-play-area .dice:hover {
   color: #cccccc;
   cursor: pointer;
+}
+
+.play-area {
+  display: flex;
+  flex-direction: column;
+}
+
+.opponent-area .play-area {
+  flex-direction: column-reverse;
 }
 
 /*# sourceMappingURL=game.css.map */

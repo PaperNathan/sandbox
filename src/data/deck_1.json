@@ -1,109 +1,145 @@
 {
   "deck_name": "Hail to the King",
-  "warlord": "w_inquisitor_dmitir.jpg",
+  "deck_id": "deck_1",
+  "warlord": [
+    {
+      "name": "Inquistor Dmitir",
+      "image": "w_inquisitor_dmitir.jpg",
+      "count": 1
+    }
+  ],
   "first_rank": [
-    "r1_genecourt_initiate.jpg",
-    "r1_genecourt_initiate.jpg",
-    "r1_genecourt_initiate.jpg"
+    {
+      "name": "Genecourt Initiate",
+      "image": "r1_genecourt_initiate.jpg",
+      "count": 3
+    }
   ],
   "second_rank": [
-    "r2_acolyte_dorra.jpg",
-    "r2_acolyte_dorra.jpg"
+    {
+      "name": "Acolyte Dorra",
+      "image": "r2_acolyte_dorra.jpg",
+      "count": 2
+    }
   ],
   "deck": [
     {
+      "name": "Scepter of Life",
       "image": "i_scepter_of_life.jpg",
       "count": 1
     }, 
     {
+      "name": "Black Sun Knight",
       "image": "c_black_sun_knight.jpg",
       "count": 3
     }, 
     {
+      "name": "Lord Argen D'llchant",
       "image": "c_lord_argen_dllchant.jpg",
       "count": 1
     }, 
     {
+      "name": "Revigorate",
       "image": "a_revigorate.jpg",
       "count": 2
     }, 
     {
+      "name": "Lord Aurelius Rellion",
       "image": "c_lord_aurelius_rellion.jpg",
       "count": 1
     }, 
     {
+      "name": "Helm of Swiftness",
       "image": "i_helm_of_swiftness.jpg",
       "count": 1
     }, 
     {
+      "name": "Moth Deiane",
       "image": "c_mother_deiane.jpg",
       "count": 1
     }, 
     {
+      "name": "Thibaud Rellion",
       "image": "c_thibaud_rellion.jpg",
       "count": 3
     }, 
     {
+      "name": "Verdatha Mount",
       "image": "i_verdatha_mount.jpg",
       "count": 3
     }, 
     {
+      "name": "Kringle's Sleigh",
       "image": "i_kringles_sleigh.jpg",
       "count": 1
     },     
     {
+      "name": "The King's Lady",
       "image": "i_the_kings_lady.jpg",
       "count": 1
     },     
     {
+      "name": "Command Horror",
       "image": "a_command_horror.jpg", 
       "count": 3
     },     
     {
+      "name": "Cure Lethal Wounds",
       "image": "a_cure_lethal_wounds.jpg",
       "count": 2
     },     
     {
+      "name": "Holy Might",
       "image": "a_holy_might.jpg", 
       "count": 3
     },     
     {
+      "name": "Breastplate of Power",
       "image": "i_breastplate_of_power.jpg",
       "count": 1
     },     
     {
+      "name": "Sir Edgard Rellion",
       "image": "c_sir_edgard_rellion.jpg",
       "count": 3
     },     
     {
+      "name": "Wyvernsteed",
       "image": "i_wyvernsteed.jpg",
       "count": 3
     },     
     {
+      "name": "Nabu's Necklace",
       "image": "i_nabus_necklace.jpg", 
       "count": 1
     },     
     {
+      "name": "Totem Crawler",
       "image": "i_totem_crawler.jpg", 
       "count": 1
     }, 
     {
+      "name": "Purify",
       "image": "a_purify.jpg", 
       "count": 2
     }, 
     {
+      "name": "Cardinal Scelus",
       "image": "c_cardinal_scelus.jpg", 
       "count": 1
     }, 
     {
+      "name": "The Sable Knight",
       "image": "c_the_sable_knight.jpg", 
       "count": 1
     }, 
     {
+      "name": "Magheline",
       "image": "c_magheline.jpg", 
       "count": 2
     }, 
     {
+      "name": "King Dukault",
       "image": "c_king_dukault.jpg",
       "count": 3
     }
